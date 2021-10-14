@@ -12,4 +12,6 @@
 #### pub package manager 
 - dart pub get # Gets dependencies for a non-Flutter package
 - dart pub outdated
-- dart pub upgrade::
+- dart pub upgrade
+- flutter format <filename>. # When pasting code into your app, indentation can become skewed. You can fix this with the following Flutter tool
+
