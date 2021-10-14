@@ -1,0 +1,14 @@
+game:
+    version: 1.0.0
+    lavels:
+        -  easy
+        - medium
+        - hard
+        - extremely hard
+    special_matches :
+        - nadav
+        - shira
+        - hadas
+        - yehonatan
+    
+    

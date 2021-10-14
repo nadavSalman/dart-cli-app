@@ -4,9 +4,12 @@
 
 - dart create -t console-full my_app
 - cd my_app
-- dart analyze
 - dart test
+- dart analyze
 - dart run bin/my_app.dart
-- dart pub get
+
+
+#### pub package manager 
+- dart pub get # Gets dependencies for a non-Flutter package
 - dart pub outdated
 - dart pub upgrade::
